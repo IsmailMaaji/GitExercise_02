@@ -1,1 +1,2 @@
-public int Health = 100;
+public int HealthMain = 200;
+public int HealthFeature = 150;
