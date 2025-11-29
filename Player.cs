@@ -1,1 +1,1 @@
-public int Health = 150;
+public int Health = 100;
